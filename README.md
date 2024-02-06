@@ -17,7 +17,7 @@
 
 ## About The Project
 
-![Chat-app🦜]()
+![Chat-app🦜](Screenshot.png)
 
 A real-time app to exchange messages with connected users. Built for learning purposes. This was the first time using **Socket.io**, so I decided to follow their tutorial to create a chat app and I added a few of the suggested features.
 
