@@ -1,5 +1,5 @@
 <br />
-  <h1 align="center">Chat-app 🧑🏼‍💻</h1>
+  <h1 align="center">AjaxChat- Chatting App 🧑🏼‍💻</h1>
 
   <p align="center">
     A chat app built with Node.js, Socket.io, React.js, and Tailwind CSS.
