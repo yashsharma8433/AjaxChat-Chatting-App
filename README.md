@@ -43,7 +43,7 @@ You need to have npm installed.
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/yashsharma8433/AjaxChat-Chatting-App
    ```
 2. From the root, install NPM packages
    ```sh
